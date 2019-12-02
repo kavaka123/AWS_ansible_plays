@@ -1,4 +1,4 @@
-1. My local installation shows ansible is using python3 as the default ansible python module ( see ansible --version command)
+1. My local installation is using python3 as the default ansible python module ( see ansible --version command)
 
 2. So, for installing any python modules for using in aws, use this command. for ex: pip3 install boto boto3
 
